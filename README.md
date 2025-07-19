@@ -17,7 +17,7 @@ I'm a detail-oriented and performance-driven **MERN Stack Developer** with a str
 - **Frontend**: React.js, Context API, Zustand, Redux Toolkit, Tailwind CSS, Bootstrap 5  
 - **Backend**: Node.js, Express.js, GraphQL, Prisma  
 - **Databases**: MongoDB, PostgreSQL  
-- **Tools**: Git, GitHub, Postman, JWT, Vite, Figma  
+- **Tools**: Git, GitHub, Postman, Figma  
 - **Other**: Socket.io, React Router DOM, Render, Vercel  
 
 ---
