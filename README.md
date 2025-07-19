@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Satyabrat Pradhan
 
-### 💻 MERN Stack Developer | Bhubaneswar, Odisha, India  
+### 💻 MERN Stack Developer | Odisha, India  
 🔹 [GitHub](https://github.com/K-satyabrat) | 📧 ksatyabrat16@gmail.com 
 
 ---
