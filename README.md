@@ -43,9 +43,6 @@ _Node.js Developer (Feb 2025 – May 2025)_
 #### 💬 [Chat App](https://github.com/K-satyabrat/chat-App.git)
 - Full-stack chat app using React, Zustand, Tailwind CSS, Socket.io with JWT-based auth.
 
-#### 🛒 [E-Kart Frontend](https://github.com/K-satyabrat/E-kart)
-- Responsive e-commerce UI with filtering, cart, toast alerts, and Bootstrap 5.
-
 ---
 
 ### 🎓 Education
