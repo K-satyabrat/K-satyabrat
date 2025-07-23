@@ -1,60 +1,87 @@
-## 👋 Hi, I'm Satyabrat Pradhan
+<h1 align="center">👋 Hey there, I'm Satyabrat Pradhan</h1>
+<h3 align="center">💻 MERN Stack Developer | Based in Odisha, India</h3>
 
-### 💻 MERN Stack Developer | Odisha, India  
-🔹 [GitHub](https://github.com/K-satyabrat) | 📧 ksatyabrat16@gmail.com 
-
----
-
-### 🚀 Career Summary
-
-I'm a detail-oriented and performance-driven **MERN Stack Developer** with a strong foundation in full-stack web development. I specialize in building scalable applications using **React.js, Node.js, Express.js, MongoDB, and Socket.io**. Passionate about clean code, RESTful APIs, and real-time systems.
+<p align="center">
+  🔗 <a href="https://github.com/K-satyabrat">GitHub</a> |
+  📧 <a href="mailto:ksatyabrat16@gmail.com">ksatyabrat16@gmail.com</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Career Summary
 
-- **Languages**: JavaScript (ES6+), TypeScript  
-- **Frontend**: React.js, Context API, Zustand, Redux Toolkit, Tailwind CSS, Bootstrap 5  
-- **Backend**: Node.js, Express.js, GraphQL, Prisma  
-- **Databases**: MongoDB, PostgreSQL  
-- **Tools**: Git, GitHub, Postman, Figma  
-- **Other**: Socket.io, React Router DOM, Render, Vercel  
+I'm a passionate and detail-oriented **MERN Stack Developer** who loves building modern, scalable web applications. I specialize in:
 
----
+- ⚛️ **React.js** for interactive UIs  
+- 🚀 **Node.js & Express.js** for powerful backend systems  
+- 🛢️ **MongoDB & PostgreSQL** for data persistence  
+- 🔌 Real-time communication using **Socket.io**
 
-### 👨‍💻 Internship
-
-**Talentrise Technokrate, Nagpur**  
-_Node.js Developer (Feb 2025 – May 2025)_
-
-- Built backend modules for product management, authentication, and real-time communication.
-- Used **JWT**, **Socket.io**, and **modular routing** for scalable architecture.
+I value clean, maintainable code and enjoy bringing ideas to life through elegant solutions.
 
 ---
 
-### 🔧 Featured Projects
+## 🛠️ Tech Stack
 
-#### 📦 [Mechanical App Backend](https://github.com/K-satyabrat/mechanical-backend.git)
-- Admin & user product management, JWT auth, real-time alerts via Socket.io.
-
-#### 🛍️ [Neargud Backend](https://github.com/K-satyabrat/neargud.git)
-- Social-commerce backend with chat, subscriptions, shop discovery, stories, etc.
-
-#### 💬 [Chat App](https://github.com/K-satyabrat/chat-App.git)
-- Full-stack chat app using React, Zustand, Tailwind CSS, Socket.io with JWT-based auth.
-
----
-
-### 🎓 Education
-
-- **B.Tech in Mechanical Engineering** – B.P.U.T  
-- **+2 Science** – Govt. College, Angul
+| Category     | Tools & Frameworks |
+|--------------|--------------------|
+| **Languages** | JavaScript (ES6+), TypeScript |
+| **Frontend** | React.js, Context API, Zustand, Redux Toolkit, Tailwind CSS, Bootstrap 5 |
+| **Backend** | Node.js, Express.js, GraphQL, Prisma |
+| **Databases** | MongoDB, PostgreSQL |
+| **Tools** | Git, GitHub, Postman, Figma |
+| **Others** | Socket.io, React Router DOM, Render, Vercel |
 
 ---
 
-### 🔗 Let's Connect
+## 👨‍💻 Internship Experience
 
-- 📫 Email: [ksatyabrat16@gmail.com](mailto:ksatyabrat16@gmail.com)
-- 🌐 GitHub: [github.com/K-satyabrat](https://github.com/K-satyabrat)
+**Node.js Developer – Talentrise Technokrate, Nagpur**  
+📆 _Feb 2025 – May 2025_
 
-Thanks for visiting my profile! 😊
+- Built modular and scalable backend components for authentication, product management, and real-time messaging.
+- Implemented **JWT** authentication and integrated **Socket.io** for real-time updates.
+- Practiced clean architecture using **modular routing** and environment configurations.
+
+---
+
+## 🔥 Featured Projects
+
+### 📦 [Mechanical App Backend](https://github.com/K-satyabrat/mechanical-backend.git)
+A role-based backend for mechanical applications:
+- Admin & user authentication using JWT.
+- Real-time alerts with **Socket.io**.
+- RESTful APIs with Express.
+
+### 🛍️ [Neargud Backend](https://github.com/K-satyabrat/neargud.git)
+A backend system for a social-commerce platform:
+- Shop discovery, subscriptions, user stories.
+- Chat and messaging functionalities with WebSockets.
+- Scalable MongoDB architecture.
+
+### 💬 [Chat App](https://github.com/K-satyabrat/chat-App.git)
+Full-stack real-time chat application:
+- Built with **React**, **Zustand**, **Tailwind CSS**.
+- Authentication via JWT, real-time chat using **Socket.io**.
+- Clean UI and responsive layout.
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Mechanical Engineering**  
+_Biju Patnaik University of Technology (B.P.U.T)_
+
+📘 **+2 Science**  
+_Government College, Angul_
+
+---
+
+## 🔗 Connect with Me
+
+📫 **Email**: [ksatyabrat16@gmail.com](mailto:ksatyabrat16@gmail.com)  
+🌐 **GitHub**: [github.com/K-satyabrat](https://github.com/K-satyabrat)
+
+---
+
+> _"Thanks for stopping by! Let's build something awesome together."_ 🚀  
