@@ -30,7 +30,7 @@ I value clean, maintainable code and enjoy bringing ideas to life through elegan
 | **Backend** | Node.js, Express.js, GraphQL, Prisma |
 | **Databases** | MongoDB, PostgreSQL |
 | **Tools** | Git, GitHub, Postman, Figma |
-| **Others** | Socket.io, React Router DOM, Render, Vercel |
+| **Others** | Socket.io, Render, Vercel |
 
 ---
 
